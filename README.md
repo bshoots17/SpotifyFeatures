@@ -8,4 +8,4 @@ Sources:
 - https://www.kaggle.com/datasets/julianoorlandi/spotify-top-songs-and-audio-features
 - https://github.com/gabminamedez/spotify-data/blob/master/Spotify%20Data.ipynb
 
-I think that's all of them... if I used your data pls let me know and I will credit! 
+I think that's all of them... if I used your data please let me know and I will credit! 
